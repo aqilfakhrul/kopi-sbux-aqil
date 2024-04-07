@@ -1,41 +1,113 @@
 {
-    "arabica": [
+    "coffee": [
         {
-            "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+            "nama": "STARBUCKS® Mix Match Pack",
+            "size": "100ml",
+            "harga": "10.000",
+            "link": "#",
+            "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/8/a7dbe7c9-69e4-422a-9906-7cc0b77d67ec.jpg"
         },
         {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+            "nama": "STARBUCKS® DoubleSHOT Espresso Latte Special Pack",
+            "size": "220 ml",
+            "harga": "70.000",
+            "link": "#",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/MTA-95728544/starbucks_starbucks-_doubleshot_espresso_latte_special_pack_-4x220ml-_full02_nvo2fbcz.jpg"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+            "nama": "Starbucks DoubleSHOT Mocha",
+            "size": "220 ml",
+            "harga": "16.800",
+            "link": "#",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/MTA-87999829/starbucks_starbucks-_doubleshot_mocha_kaleng_220ml_full01_d1agt71a.jpg"
+        },
+        {
+            "nama": "Starbucks DoubleSHOT Espresso Latte",
+            "size": "220 ml",
+            "harga": "16.800",
+            "link": "#",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/114/MTA-149687349/no-brand_starbucks-doubleshot-espresso-latte-kopi-kaleng-220-ml_full01.jpg"
+        },
+        {
+            "nama": "Starbucks Frappuccino Botol",
+            "size": "280 ml",
+            "harga": "29.700",
+            "link": "#",
+            "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/1/18/b53cefa7-f9fa-4db3-9376-9cd2df53aed3.jpg"
+        },
+        {
+            "nama": "STARBUCKS® Espresso by NESCAFE DOLCE GUSTO Dark Roast 12 pcs",
+            "size": "250 g",
+            "harga": "129.300",
+            "link": "#",
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/18/3b468bb7-f13d-4221-b028-a309c0544523.jpg"
+        },
+        {
+            "nama": "STARBUCKS® Cappuccino by NESCAFE DOLCE GUSTO 12 pcs",
+            "size": "250 g ",
+            "harga": "129.300",
+            "link": "#",
+            "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/1/18/aadd144b-bc2a-4a3f-87a6-515489f24936.jpg.webp?ect=4g"
         }
     ],
-    "robusta": [
+    "tea": [
         {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "nama": "FOX'S Fusion Tea Mixed Berries",
+            "size": "25 g",
+            "harga": "26.000",
+            "link": "#",
+            "foto": "https://img.id.my-best.com/product_images/3af7555156fc0739889c81ed284fed50.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=0bfbd11ef365b45d1b5290cde67d8a16"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "nama": "FOX'S Fusion Tes Lychee",
+            "size": "25 g",
+            "harga": "26.000",
+            "link": "#",
+            "foto": "https://img.id.my-best.com/product_images/f6a102cb5e9eeffe649af38754bbb1be.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=471241ca03251c35c85b998c8f7f9a11"
+        },
+        {
+            "nama": "Twinings of London Herbal Tea - Lemon Delight",
+            "size": "40 g",
+            "harga": "87.000",
+            "link": "#",
+            "foto": "https://theheadnut.com/cdn/shop/products/lemon-delight-bags-20ct-cl_900x_82f3a101-8473-4935-92b8-3822a0aae08e.png?v=1600740255"
+        },
+        {
+            "nama": "Twilings og London - Green Tea Jasmine",
+            "size": "50 g",
+            "harga": "94.000",
+            "link": "#",
+            "foto": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAwJTamwUVvzoVx_jQpkRMY5PbaBWgdgVocxV2DPGO5kDWQUdEVmf75yDFPuOISm6l24bR9ouGZKNGbAo4PHXUwk3b9DUwMa_C9D3ljlWVVup_-hZK8Hqk&usqp=CAE"
+        },
+        {
+            "nama": "Twilings of London Herbal tea Berry Fusion",
+            "size": "40 g",
+            "harga": "87.000",
+            "link": "#",
+            "foto": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTaPv5QR7DZ1jvYFJD9sm5Sewbm71kz-7oC3J9z7CksQmerLmIiMM0Oj6NFlNJebaBeZD9Gj6Ab5oTM8hMSyPuccsntj5D3slDYf38zTN5qDzWgCYu-PsZC&usqp=CAE"
+        }
+    ],
+    "bentocake": [
+        {
+            "nama": "Bento Cake flower Blue",
+            "size": "Small",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://pbs.twimg.com/media/E4JijeZVgAE0SMq.jpg:large"
+        },
+        {
+            "nama": "Bento Cake Sun Flower",
+            "size": "Small",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://www.giftlaya.com/blog/wp-content/uploads/2023/10/92.jpg"
+        },
+        {
+            "nama": "Bento Cake Green Tea",
+            "size": "Small",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://d3cif2hu95s88v.cloudfront.net/live-site-2016/product-image/2023/16946178881-350x350.jpg"
         }
     ]
 }
